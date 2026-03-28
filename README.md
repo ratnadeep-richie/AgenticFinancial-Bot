@@ -1,9 +1,6 @@
 # AgenticFinancial-Bot
 Agentic Financial AI acts as a personal financial advisor for you, helping users make better financial decisions through intelligent insights, automation, and data-driven recommendations.
 
-# 💰 Agentic Financial AI
-
-An intelligent personal finance assistant built with Streamlit that analyzes expenses, generates insights, and provides financial recommendations.
 ##  Features
 
 -  Authentication System
